@@ -7,14 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace WebApplication1
 {
-    public partial class _Default : Page
+    public partial class WebForm1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void GridView2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
